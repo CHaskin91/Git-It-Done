@@ -1,4 +1,5 @@
 # Git-It-Done
+Search for a GitHub user or click on a language to see a list of all repositories and how many open issues they have.
 
 ## Lesson 1
 * Learned that a server-side API is an interface for accessing another website's data.
