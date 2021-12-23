@@ -20,3 +20,8 @@ Search for a GitHub user or click on a language to see a list of all repositorie
 * Pass information from one page to another using query parameters.
 * Obtain data from a URL using browser-provided location objects.
 * Make the API call dynamic by using the query parameter to alter the request.
+
+## Lesson 5
+* Recognize which options are available for GitHub API endpoints.
+* Use multiple parameters in a query string.
+* Use HTML attributes to dynamically update an API call.
